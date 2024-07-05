@@ -1,0 +1,135 @@
+@import url('../styles/colour.css');
+
+.nuggetarea {
+  display: flex;
+  order: 1;
+  flex-grow: 1;
+  flex-basis: 70%;
+  justify-content: center;
+  flex-direction: column;
+  overflow: auto;
+}
+
+.inboundpassage {
+  display: flex;
+  order: 0;
+  flex-grow: 1;
+  flex-basis: 15%;
+  justify-content: center;
+  flex-direction: column;
+  font-size: smaller;
+  max-width: 20%;
+}
+
+.outboundpassage {
+  display: flex;
+  order: 2;
+  flex-grow: 1;
+  flex-basis: 15%;
+  justify-content: center;
+  flex-direction: column;
+  font-size: smaller;
+  overflow: auto;
+  height: fit-content;
+  max-width: 20%;
+}
+
+.inboundnugget {
+  display: flex;
+  order: 0;
+  flex-basis: 15%;
+  justify-content: center;
+  font-size: smaller;
+  min-height: 7rem;
+  max-height: 20rem;
+  overflow: hidden;
+}
+
+.outboundnugget {
+  display: flex;
+  order: 2;
+  flex-basis: 15%;
+  font-size: smaller;
+  min-height: 7rem;
+  max-height: 20rem;
+  overflow-y: hidden;
+}
+
+.bordered {
+  border-radius: 1rem;
+  border: 0.3rem solid;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  margin: 0.2rem;
+  max-height: 100%;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.main {
+  border-width: 0.6rem;
+  border-radius: 2rem;
+  order: 1;
+  flex-grow: 2;
+  background-color: var(--color-main-bg);
+  min-height: 5rem;
+  padding: 2rem;
+  overflow: auto;
+}
+
+.nugget {
+  border-color: var(--color-nugget);
+}
+
+.passage {
+  border-color: var(--color-passage);
+}
+
+.seam {
+  border-color: var(--color-seam);
+  overflow: auto;
+}
+
+.small {
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: xx-small;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.metadata {
+  order: 1001;
+}
+
+.breadcrumbs {
+  font-size: small;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  order: 1000;
+}
+
+.crumbs {
+  display: flex;
+  flex-direction: row;
+}
+
+.crumb {
+  display: flex;
+}
+
+.table {
+  width: 100%;
+}
+
+.table th {
+  text-align: left;
+}
+
+.outboundnugget .nugget {
+  min-width: 5rem;
+}

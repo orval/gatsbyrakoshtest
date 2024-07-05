@@ -1,0 +1,111 @@
+---
+slug: /my-second-lode/foo
+type: passage
+_key: 3f73b14a-b566-445a-bcd1-67699bb1ac53
+_id: passage/3f73b14a-b566-445a-bcd1-67699bb1ac53
+_rev: _iFflG0e--B
+passage: foo
+fspath: examples/my-mine/my-second-lode/foo.md
+label: Foo
+pageRefs: {}
+breadcrumbs:
+  - - label: My Second Lode
+      shortlabel: null
+      _key: 256875fc-3c2d-446b-b95a-53cc79172bf3
+paths:
+  - /my-second-lode/foo
+---
+
+<NuggetArea>
+<Passage slug="/my-second-lode/foo" type="passage" _key="3f73b14a-b566-445a-bcd1-67699bb1ac53" _id="passage/3f73b14a-b566-445a-bcd1-67699bb1ac53" _rev="_iFflG0e--B" passage="foo" fspath="examples/my-mine/my-second-lode/foo.md" label="Foo" paths="/my-second-lode/foo">
+<NuggetBody>
+## Foo
+
+A wide piece of text:
+
+```text
+This is some text inside a code block that gets rendered in the website without wrapping, which means some max-width options are needed.
+```
+
+</NuggetBody>
+<Breadcrumbs>
+<Crumbs>
+<Crumb _key="256875fc-3c2d-446b-b95a-53cc79172bf3" label="My Second Lode" />
+</Crumbs>
+</Breadcrumbs>
+</Passage>
+
+<NuggetsInbound>
+</NuggetsInbound>
+<NuggetsOutbound>
+<Nugget direction="outbound" type="nugget" _key="206be892-0bd4-44c4-9e9e-19c6798b68ad" _id="nugget/206be892-0bd4-44c4-9e9e-19c6798b68ad" _rev="_iFflG0q--_" fspath="examples/my-mine/my-second-lode/foo/code.md" label="Code" paths="/my-second-lode/foo/code" slug="/my-second-lode/foo/code">
+<NuggetBody>
+## Code
+
+Code syntax highlighting.
+
+```java
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
+
+### UUID
+
+`cli/uuid.js` from rakosh:
+
+```javascript
+'use strict'
+const { v4: uuidv4 } = require('uuid')
+
+exports.command = 'uuid'
+
+exports.describe = 'Generate a UUID'
+
+exports.builder = (yargs) => {
+  return yargs
+}
+
+exports.handler = function (argv) {
+  console.log(uuidv4())
+}
+```
+
+End.
+
+</NuggetBody>
+</Nugget>
+
+<Nugget direction="outbound" type="nugget" _key="8d41d7ef-097e-46eb-aa90-ead7f78771d8" _id="nugget/8d41d7ef-097e-46eb-aa90-ead7f78771d8" _rev="_iFflG0q--A" label="just a link" fspath="examples/my-mine/my-second-lode/foo/just_a_link.md" paths="/my-second-lode/foo/just-a-link" slug="/my-second-lode/foo/just-a-link">
+<NuggetBody>
+[linky](https://en.wikipedia.org)
+
+</NuggetBody>
+</Nugget>
+
+</NuggetsOutbound>
+</NuggetArea>
+<PassagesInbound>
+<Passage direction="inbound" type="passage" _key="256875fc-3c2d-446b-b95a-53cc79172bf3" _id="passage/256875fc-3c2d-446b-b95a-53cc79172bf3" _rev="_iFflG0e--A" passage="my-second-lode" order="2" fspath="examples/my-mine/my_second_lode.md" label="My Second Lode" paths="/my-second-lode" slug="/my-second-lode">
+<NuggetBody>
+# My Second Lode
+
+Lodes are used for top-level categories of information.
+
+If the mine were a book, lodes might be chapters. Or if the mine were a bookshelf, lodes could be books.
+
+</NuggetBody>
+</Passage>
+
+</PassagesInbound>
+<PassagesOutbound>
+<Passage direction="outbound" type="passage" _key="12019945" _id="passage/12019945" _rev="_iFflG0i---" label="bar" passage="bar" fspath="examples/my-mine/my-second-lode/foo/bar" paths="/my-second-lode/foo/bar" slug="/my-second-lode/foo/bar">
+<NuggetBody>
+### bar
+
+</NuggetBody>
+</Passage>
+
+</PassagesOutbound>

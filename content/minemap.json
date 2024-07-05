@@ -1,0 +1,1632 @@
+{
+  "initialData": [
+    {
+      "vid": "adit",
+      "name": "My Mine",
+      "type": "passage",
+      "seam": false,
+      "children": [
+        {
+          "vid": "08bcf93d-ed39-4d34-889b-5d3271074f7c",
+          "name": "My First Lode",
+          "type": "passage",
+          "seam": false,
+          "children": [
+            {
+              "vid": "12019882",
+              "name": "another-category",
+              "type": "passage",
+              "seam": false,
+              "children": [
+                {
+                  "vid": "392049f8-d0d2-4e73-b281-489f3a2bef46",
+                  "name": "Broccoli",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "d7faacfb-0fd8-40b3-8b84-c74cdf820032",
+                      "name": "Broccoli",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|392049f8-d0d2-4e73-b281-489f3a2bef46|d7faacfb-0fd8-40b3-8b84-c74cdf820032"
+                    }
+                  ],
+                  "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|392049f8-d0d2-4e73-b281-489f3a2bef46"
+                },
+                {
+                  "vid": "12019885",
+                  "name": "subcategory1",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "bcff68dd-23e2-48c2-8ab5-c56eae2ee7c7",
+                      "name": "A standalone nugget that…",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|12019885|bcff68dd-23e2-48c2-8ab5-c56eae2ee7c7"
+                    },
+                    {
+                      "vid": "bec302f5-f1cf-4d99-8b60-b2da8506ccac",
+                      "name": "Image Test",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|12019885|bec302f5-f1cf-4d99-8b60-b2da8506ccac"
+                    },
+                    {
+                      "vid": "12019892",
+                      "name": "images",
+                      "type": "passage",
+                      "seam": false,
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|12019885|12019892"
+                    }
+                  ],
+                  "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|12019885"
+                },
+                {
+                  "vid": "86cc1537-3399-4a06-914d-328803aa542b",
+                  "name": "Valid Markdown",
+                  "type": "nugget",
+                  "seam": false,
+                  "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|86cc1537-3399-4a06-914d-328803aa542b"
+                }
+              ],
+              "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882"
+            },
+            {
+              "vid": "30f7842a-97a9-4f5b-b1ad-d54d1b937722",
+              "name": "Llama",
+              "type": "passage",
+              "seam": false,
+              "children": [
+                {
+                  "vid": "69e8d8f9-acb7-46d5-a828-a9f2ea1172ee",
+                  "name": "BingleBongle",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "02d795d0-c2bb-4d86-a47f-9fc7cb441741",
+                      "name": "Sheep-65000 BingleBongle",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|30f7842a-97a9-4f5b-b1ad-d54d1b937722|69e8d8f9-acb7-46d5-a828-a9f2ea1172ee|02d795d0-c2bb-4d86-a47f-9fc7cb441741"
+                    },
+                    {
+                      "vid": "db0d2c7c-ece5-4c64-9575-f39e33145f86",
+                      "name": "Sheep-90210 BingleBongle",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|30f7842a-97a9-4f5b-b1ad-d54d1b937722|69e8d8f9-acb7-46d5-a828-a9f2ea1172ee|db0d2c7c-ece5-4c64-9575-f39e33145f86"
+                    }
+                  ],
+                  "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|30f7842a-97a9-4f5b-b1ad-d54d1b937722|69e8d8f9-acb7-46d5-a828-a9f2ea1172ee"
+                }
+              ],
+              "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|30f7842a-97a9-4f5b-b1ad-d54d1b937722"
+            },
+            {
+              "vid": "72422e64-7ac4-4a18-a284-a4f9be1cc8ee",
+              "name": "Sheep",
+              "type": "passage",
+              "seam": false,
+              "children": [
+                {
+                  "vid": "8bd9489e-b2fc-4c43-bb3b-e213b2ab471f",
+                  "name": "Sheep 65000 - Blorp",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "12019909",
+                      "name": "Poodle",
+                      "type": "passage",
+                      "seam": false,
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|8bd9489e-b2fc-4c43-bb3b-e213b2ab471f|12019909"
+                    },
+                    {
+                      "vid": "02d795d0-c2bb-4d86-a47f-9fc7cb441741",
+                      "name": "Sheep-65000 BingleBongle",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|8bd9489e-b2fc-4c43-bb3b-e213b2ab471f|02d795d0-c2bb-4d86-a47f-9fc7cb441741"
+                    }
+                  ],
+                  "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|8bd9489e-b2fc-4c43-bb3b-e213b2ab471f"
+                },
+                {
+                  "vid": "b45dcc4a-567c-4e52-8ee5-efba889af126",
+                  "name": "Sheep 90210 - Flump",
+                  "type": "passage",
+                  "seam": true,
+                  "children": [
+                    {
+                      "vid": "12019916",
+                      "name": "Poodle",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "f4088608-4860-4427-9d08-21d612123688",
+                          "name": "90210.001 Poodle Information",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|b45dcc4a-567c-4e52-8ee5-efba889af126|12019916|f4088608-4860-4427-9d08-21d612123688"
+                        }
+                      ],
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|b45dcc4a-567c-4e52-8ee5-efba889af126|12019916"
+                    },
+                    {
+                      "vid": "db0d2c7c-ece5-4c64-9575-f39e33145f86",
+                      "name": "Sheep-90210 BingleBongle",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|b45dcc4a-567c-4e52-8ee5-efba889af126|db0d2c7c-ece5-4c64-9575-f39e33145f86"
+                    },
+                    {
+                      "vid": "10f392d8-58f6-442a-b0a2-5fcbcc788c27",
+                      "name": "Tarnation",
+                      "type": "nugget",
+                      "seam": true,
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|b45dcc4a-567c-4e52-8ee5-efba889af126|10f392d8-58f6-442a-b0a2-5fcbcc788c27"
+                    }
+                  ],
+                  "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|b45dcc4a-567c-4e52-8ee5-efba889af126"
+                }
+              ],
+              "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee"
+            },
+            {
+              "vid": "12019925",
+              "name": "some-category",
+              "type": "passage",
+              "seam": false,
+              "children": [
+                {
+                  "vid": "b49752c2-083b-4a19-9161-dfb434c24911",
+                  "name": "Subcategory One",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "a8f1651e-535e-4795-9273-694e9c42de8e",
+                      "name": "Foo Bar Baz",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|b49752c2-083b-4a19-9161-dfb434c24911|a8f1651e-535e-4795-9273-694e9c42de8e"
+                    },
+                    {
+                      "vid": "ed742eb0-26e4-400d-af4d-4dfd715dfe85",
+                      "name": "Seam Set",
+                      "type": "nugget",
+                      "seam": true,
+                      "children": [
+                        {
+                          "vid": "49b70b98-48be-42f3-b314-ccfa469f7987",
+                          "name": "A Useful Nugget",
+                          "type": "nugget",
+                          "seam": false,
+                          "children": [
+                            {
+                              "vid": "00d26410-0e18-4912-b26b-dbc173ec0bb8",
+                              "name": "Another Piece of Content",
+                              "type": "nugget",
+                              "seam": false,
+                              "children": [
+                                {
+                                  "vid": "75bc450a-7d4c-4aa4-8241-2f269c378f90",
+                                  "name": "Green Eggs and Ham",
+                                  "type": "nugget",
+                                  "seam": false,
+                                  "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|b49752c2-083b-4a19-9161-dfb434c24911|ed742eb0-26e4-400d-af4d-4dfd715dfe85|49b70b98-48be-42f3-b314-ccfa469f7987|00d26410-0e18-4912-b26b-dbc173ec0bb8|75bc450a-7d4c-4aa4-8241-2f269c378f90"
+                                }
+                              ],
+                              "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|b49752c2-083b-4a19-9161-dfb434c24911|ed742eb0-26e4-400d-af4d-4dfd715dfe85|49b70b98-48be-42f3-b314-ccfa469f7987|00d26410-0e18-4912-b26b-dbc173ec0bb8"
+                            }
+                          ],
+                          "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|b49752c2-083b-4a19-9161-dfb434c24911|ed742eb0-26e4-400d-af4d-4dfd715dfe85|49b70b98-48be-42f3-b314-ccfa469f7987"
+                        }
+                      ],
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|b49752c2-083b-4a19-9161-dfb434c24911|ed742eb0-26e4-400d-af4d-4dfd715dfe85"
+                    }
+                  ],
+                  "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|b49752c2-083b-4a19-9161-dfb434c24911"
+                },
+                {
+                  "vid": "12019936",
+                  "name": "subcategory2",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "bcff68dd-23e2-48c2-8ab5-c56eae2ee7c7",
+                      "name": "A standalone nugget that…",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|12019936|bcff68dd-23e2-48c2-8ab5-c56eae2ee7c7"
+                    }
+                  ],
+                  "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|12019936"
+                }
+              ],
+              "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925"
+            }
+          ],
+          "id": "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c"
+        },
+        {
+          "vid": "256875fc-3c2d-446b-b95a-53cc79172bf3",
+          "name": "My Second Lode",
+          "type": "passage",
+          "seam": false,
+          "children": [
+            {
+              "vid": "3f73b14a-b566-445a-bcd1-67699bb1ac53",
+              "name": "Foo",
+              "type": "passage",
+              "seam": false,
+              "children": [
+                {
+                  "vid": "12019945",
+                  "name": "bar",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "12019948",
+                      "name": "baz",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "a8f1651e-535e-4795-9273-694e9c42de8e",
+                          "name": "Foo Bar Baz",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|12019945|12019948|a8f1651e-535e-4795-9273-694e9c42de8e"
+                        },
+                        {
+                          "vid": "382bcaae-46e7-465f-9a82-d24ff426939f",
+                          "name": "Label Test 1",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|12019945|12019948|382bcaae-46e7-465f-9a82-d24ff426939f"
+                        },
+                        {
+                          "vid": "ab7f01b4-b6ba-4598-9485-6dc19a28bd9c",
+                          "name": "Label Test 1",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|12019945|12019948|ab7f01b4-b6ba-4598-9485-6dc19a28bd9c"
+                        }
+                      ],
+                      "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|12019945|12019948"
+                    },
+                    {
+                      "vid": "ed5171f1-6b90-4a26-bdd3-6427dd435ead",
+                      "name": "Code In Directives",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|12019945|ed5171f1-6b90-4a26-bdd3-6427dd435ead"
+                    }
+                  ],
+                  "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|12019945"
+                },
+                {
+                  "vid": "206be892-0bd4-44c4-9e9e-19c6798b68ad",
+                  "name": "Code",
+                  "type": "nugget",
+                  "seam": false,
+                  "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|206be892-0bd4-44c4-9e9e-19c6798b68ad"
+                },
+                {
+                  "vid": "8d41d7ef-097e-46eb-aa90-ead7f78771d8",
+                  "name": "just a link",
+                  "type": "nugget",
+                  "seam": false,
+                  "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|8d41d7ef-097e-46eb-aa90-ead7f78771d8"
+                }
+              ],
+              "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53"
+            },
+            {
+              "vid": "12019963",
+              "name": "green",
+              "type": "passage",
+              "seam": false,
+              "children": [
+                {
+                  "vid": "f43237c5-5a32-477f-9963-c6fe2a7e477e",
+                  "name": "Emeralds",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "e6ded25a-d6a0-4604-a04a-8cbd85874170",
+                      "name": "Emeralds",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|f43237c5-5a32-477f-9963-c6fe2a7e477e|e6ded25a-d6a0-4604-a04a-8cbd85874170"
+                    }
+                  ],
+                  "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|f43237c5-5a32-477f-9963-c6fe2a7e477e"
+                },
+                {
+                  "vid": "9b136996-9f88-4a9e-8d58-f3affaa00fac",
+                  "name": "Green Grass",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "54d805de-f6ee-48fe-8e15-b1223fd02a12",
+                      "name": "Grass",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|9b136996-9f88-4a9e-8d58-f3affaa00fac|54d805de-f6ee-48fe-8e15-b1223fd02a12"
+                    }
+                  ],
+                  "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|9b136996-9f88-4a9e-8d58-f3affaa00fac"
+                },
+                {
+                  "vid": "392049f8-d0d2-4e73-b281-489f3a2bef46",
+                  "name": "Broccoli",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "d7faacfb-0fd8-40b3-8b84-c74cdf820032",
+                      "name": "Broccoli",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|392049f8-d0d2-4e73-b281-489f3a2bef46|d7faacfb-0fd8-40b3-8b84-c74cdf820032"
+                    }
+                  ],
+                  "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|392049f8-d0d2-4e73-b281-489f3a2bef46"
+                },
+                {
+                  "vid": "feae3259-820b-4506-86c9-0721c1c14dc3",
+                  "name": "Avocado",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "ed742eb0-26e4-400d-af4d-4dfd715dfe85",
+                      "name": "Seam Set",
+                      "type": "nugget",
+                      "seam": true,
+                      "children": [
+                        {
+                          "vid": "49b70b98-48be-42f3-b314-ccfa469f7987",
+                          "name": "A Useful Nugget",
+                          "type": "nugget",
+                          "seam": false,
+                          "children": [
+                            {
+                              "vid": "00d26410-0e18-4912-b26b-dbc173ec0bb8",
+                              "name": "Another Piece of Content",
+                              "type": "nugget",
+                              "seam": false,
+                              "children": [
+                                {
+                                  "vid": "75bc450a-7d4c-4aa4-8241-2f269c378f90",
+                                  "name": "Green Eggs and Ham",
+                                  "type": "nugget",
+                                  "seam": false,
+                                  "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|feae3259-820b-4506-86c9-0721c1c14dc3|ed742eb0-26e4-400d-af4d-4dfd715dfe85|49b70b98-48be-42f3-b314-ccfa469f7987|00d26410-0e18-4912-b26b-dbc173ec0bb8|75bc450a-7d4c-4aa4-8241-2f269c378f90"
+                                }
+                              ],
+                              "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|feae3259-820b-4506-86c9-0721c1c14dc3|ed742eb0-26e4-400d-af4d-4dfd715dfe85|49b70b98-48be-42f3-b314-ccfa469f7987|00d26410-0e18-4912-b26b-dbc173ec0bb8"
+                            }
+                          ],
+                          "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|feae3259-820b-4506-86c9-0721c1c14dc3|ed742eb0-26e4-400d-af4d-4dfd715dfe85|49b70b98-48be-42f3-b314-ccfa469f7987"
+                        }
+                      ],
+                      "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|feae3259-820b-4506-86c9-0721c1c14dc3|ed742eb0-26e4-400d-af4d-4dfd715dfe85"
+                    }
+                  ],
+                  "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|feae3259-820b-4506-86c9-0721c1c14dc3"
+                },
+                {
+                  "vid": "12019980",
+                  "name": "eggs",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "12019983",
+                      "name": "ham",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "75bc450a-7d4c-4aa4-8241-2f269c378f90",
+                          "name": "Green Eggs and Ham",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|12019980|12019983|75bc450a-7d4c-4aa4-8241-2f269c378f90"
+                        }
+                      ],
+                      "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|12019980|12019983"
+                    }
+                  ],
+                  "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|12019980"
+                }
+              ],
+              "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963"
+            },
+            {
+              "vid": "aa91b9a7-d73c-4f77-a4a1-eb1080998105",
+              "name": "Seam Test",
+              "type": "passage",
+              "seam": true,
+              "children": [
+                {
+                  "vid": "e6192fea-8357-442b-ba62-f29a3b534071",
+                  "name": "Benefits of SaaS for Small Businesses",
+                  "type": "nugget",
+                  "seam": true,
+                  "children": [
+                    {
+                      "vid": "76983315-5cf3-4541-96c4-21b79fa835ab",
+                      "name": "Emerging Trends in SaaS",
+                      "type": "nugget",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "f54bfbb9-fb65-46de-95dc-b4b24f8defe4",
+                          "name": "Security and Privacy in SaaS",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|aa91b9a7-d73c-4f77-a4a1-eb1080998105|e6192fea-8357-442b-ba62-f29a3b534071|76983315-5cf3-4541-96c4-21b79fa835ab|f54bfbb9-fb65-46de-95dc-b4b24f8defe4"
+                        }
+                      ],
+                      "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|aa91b9a7-d73c-4f77-a4a1-eb1080998105|e6192fea-8357-442b-ba62-f29a3b534071|76983315-5cf3-4541-96c4-21b79fa835ab"
+                    }
+                  ],
+                  "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|aa91b9a7-d73c-4f77-a4a1-eb1080998105|e6192fea-8357-442b-ba62-f29a3b534071"
+                }
+              ],
+              "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|aa91b9a7-d73c-4f77-a4a1-eb1080998105"
+            }
+          ],
+          "id": "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3"
+        },
+        {
+          "vid": "12019996",
+          "name": "section-three",
+          "type": "passage",
+          "seam": false,
+          "children": [
+            {
+              "vid": "12019999",
+              "name": "one",
+              "type": "passage",
+              "seam": false,
+              "children": [
+                {
+                  "vid": "a2e08181-5ac7-4e15-94d3-5698d95b723a",
+                  "name": "Many Nuggets",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "5ab7e204-c630-4929-8e80-e44dc81e8c4a",
+                      "name": "Nugget One",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|5ab7e204-c630-4929-8e80-e44dc81e8c4a"
+                    },
+                    {
+                      "vid": "16d61f24-52a5-4126-9b85-e37a4a6054e2",
+                      "name": "Nugget Two",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|16d61f24-52a5-4126-9b85-e37a4a6054e2"
+                    },
+                    {
+                      "vid": "46fd6cf8-0648-4e7a-91fb-a3987aeda55f",
+                      "name": "Nugget Three",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|46fd6cf8-0648-4e7a-91fb-a3987aeda55f"
+                    },
+                    {
+                      "vid": "7fb8a9e1-d22b-4c0f-8cd1-9e8bed90c43c",
+                      "name": "Nugget Four",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|7fb8a9e1-d22b-4c0f-8cd1-9e8bed90c43c"
+                    },
+                    {
+                      "vid": "caad9427-d1ec-4637-8a47-4ca1f8be8f5a",
+                      "name": "Nugget Five",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|caad9427-d1ec-4637-8a47-4ca1f8be8f5a"
+                    },
+                    {
+                      "vid": "9a84e02c-e5c8-42f3-80b0-2c4c5992bcce",
+                      "name": "Nugget Six",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|9a84e02c-e5c8-42f3-80b0-2c4c5992bcce"
+                    },
+                    {
+                      "vid": "042d2a2b-f33d-451e-908e-d716872c730e",
+                      "name": "Nugget Seven",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|042d2a2b-f33d-451e-908e-d716872c730e"
+                    },
+                    {
+                      "vid": "8d55b848-cb8f-458a-b682-34f224d48257",
+                      "name": "Nugget Eight",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|8d55b848-cb8f-458a-b682-34f224d48257"
+                    },
+                    {
+                      "vid": "249a7f38-26c0-4ac9-ab09-b419af839445",
+                      "name": "Nugget Nine",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|249a7f38-26c0-4ac9-ab09-b419af839445"
+                    },
+                    {
+                      "vid": "46558a49-c986-41c5-b01c-4fc13d2aec5d",
+                      "name": "Nugget Ten",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|46558a49-c986-41c5-b01c-4fc13d2aec5d"
+                    },
+                    {
+                      "vid": "d0f6e9d8-d9fc-4b63-b73d-0c77a09ec237",
+                      "name": "Nugget Eleven",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|d0f6e9d8-d9fc-4b63-b73d-0c77a09ec237"
+                    },
+                    {
+                      "vid": "249b3b9c-d685-4d8d-a8e3-3dc4319c5174",
+                      "name": "Nugget Twelve",
+                      "type": "nugget",
+                      "seam": false,
+                      "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|249b3b9c-d685-4d8d-a8e3-3dc4319c5174"
+                    }
+                  ],
+                  "id": "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a"
+                },
+                {
+                  "vid": "12020028",
+                  "name": "many-passages",
+                  "type": "passage",
+                  "seam": false,
+                  "children": [
+                    {
+                      "vid": "12020031",
+                      "name": "100",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "796b092d-693c-49f3-a7cd-ca3b767b1b7b",
+                          "name": "Nug 100",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020031|796b092d-693c-49f3-a7cd-ca3b767b1b7b"
+                        },
+                        {
+                          "vid": "d3c44e88-1a8f-4346-bf68-83a55000ba56",
+                          "name": "This is a nugget with a long title that will be too big to fit in the MineMap",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020031|d3c44e88-1a8f-4346-bf68-83a55000ba56"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020031"
+                    },
+                    {
+                      "vid": "12020038",
+                      "name": "101",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "c9895ea8-2727-4e3d-a2b4-c3ce9b1116ed",
+                          "name": "Nug 101",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020038|c9895ea8-2727-4e3d-a2b4-c3ce9b1116ed"
+                        },
+                        {
+                          "vid": "38d2e5da-917b-4606-840d-388af26ac098",
+                          "name": "This is another nugget with another long title that will be too big to fit in the MineMap",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020038|38d2e5da-917b-4606-840d-388af26ac098"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020038"
+                    },
+                    {
+                      "vid": "12020045",
+                      "name": "102",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "c3969d0b-e460-4179-bc80-1e36f9b22d3f",
+                          "name": "Nug 102",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020045|c3969d0b-e460-4179-bc80-1e36f9b22d3f"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020045"
+                    },
+                    {
+                      "vid": "12020050",
+                      "name": "103",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "545674be-6db1-4d29-b137-6a4b363613c3",
+                          "name": "Nug 103",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020050|545674be-6db1-4d29-b137-6a4b363613c3"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020050"
+                    },
+                    {
+                      "vid": "12020055",
+                      "name": "104",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "e6b42709-524d-4e4a-a90e-807a61499a46",
+                          "name": "Nug 104",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020055|e6b42709-524d-4e4a-a90e-807a61499a46"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020055"
+                    },
+                    {
+                      "vid": "12020060",
+                      "name": "105",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "0de68796-5ca1-4256-b93f-7061fcec02df",
+                          "name": "Nug 105",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020060|0de68796-5ca1-4256-b93f-7061fcec02df"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020060"
+                    },
+                    {
+                      "vid": "12020065",
+                      "name": "106",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "0da9bf95-748b-4bf9-a6d8-aee7b179b0e4",
+                          "name": "Nug 106",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020065|0da9bf95-748b-4bf9-a6d8-aee7b179b0e4"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020065"
+                    },
+                    {
+                      "vid": "12020070",
+                      "name": "107",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "df1c9b86-67a6-4937-ad9d-813a7c16a43e",
+                          "name": "Nug 107",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020070|df1c9b86-67a6-4937-ad9d-813a7c16a43e"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020070"
+                    },
+                    {
+                      "vid": "12020075",
+                      "name": "108",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "6bfe2a88-7cda-4e88-a101-2f8f107a8c70",
+                          "name": "Nug 108",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020075|6bfe2a88-7cda-4e88-a101-2f8f107a8c70"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020075"
+                    },
+                    {
+                      "vid": "12020080",
+                      "name": "109",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "3eda9339-4668-47c3-9c62-a1a270855216",
+                          "name": "Nug 109",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020080|3eda9339-4668-47c3-9c62-a1a270855216"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020080"
+                    },
+                    {
+                      "vid": "12020085",
+                      "name": "110",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "dcfe7782-bd9d-4239-8439-1cc23685cf9d",
+                          "name": "Nug 110",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020085|dcfe7782-bd9d-4239-8439-1cc23685cf9d"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020085"
+                    },
+                    {
+                      "vid": "12020090",
+                      "name": "111",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "2debd860-fc8b-4e97-b3f3-1e91154464c8",
+                          "name": "Nug 111",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020090|2debd860-fc8b-4e97-b3f3-1e91154464c8"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020090"
+                    },
+                    {
+                      "vid": "12020095",
+                      "name": "112",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "553e13ce-a018-4d9b-8ac0-148ebb62e330",
+                          "name": "Nug 112",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020095|553e13ce-a018-4d9b-8ac0-148ebb62e330"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020095"
+                    },
+                    {
+                      "vid": "12020100",
+                      "name": "113",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "3873b4f6-b05b-4c9e-a3f7-3572348d272c",
+                          "name": "Nug 113",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020100|3873b4f6-b05b-4c9e-a3f7-3572348d272c"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020100"
+                    },
+                    {
+                      "vid": "12020106",
+                      "name": "114",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "7304cf4c-d91f-44d7-9599-76988da9e875",
+                          "name": "Nug 114",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020106|7304cf4c-d91f-44d7-9599-76988da9e875"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020106"
+                    },
+                    {
+                      "vid": "12020110",
+                      "name": "115",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "17da1921-9567-490f-ab1f-21fa6ad346ef",
+                          "name": "Nug 115",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020110|17da1921-9567-490f-ab1f-21fa6ad346ef"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020110"
+                    },
+                    {
+                      "vid": "12020115",
+                      "name": "116",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "aee495d9-e848-4c8d-a338-1c68561d5fbc",
+                          "name": "Nug 116",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020115|aee495d9-e848-4c8d-a338-1c68561d5fbc"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020115"
+                    },
+                    {
+                      "vid": "12020120",
+                      "name": "117",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "ef4042cd-8d96-4d00-9a2e-5e151d95fe54",
+                          "name": "Nug 117",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020120|ef4042cd-8d96-4d00-9a2e-5e151d95fe54"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020120"
+                    },
+                    {
+                      "vid": "12020125",
+                      "name": "118",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "95343290-7c1e-44ec-9ae4-113c5eb73506",
+                          "name": "Nug 118",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020125|95343290-7c1e-44ec-9ae4-113c5eb73506"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020125"
+                    },
+                    {
+                      "vid": "12020130",
+                      "name": "119",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "240326b1-36bc-48ee-9f50-cc9cbda6020c",
+                          "name": "Nug 119",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020130|240326b1-36bc-48ee-9f50-cc9cbda6020c"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020130"
+                    },
+                    {
+                      "vid": "12020135",
+                      "name": "120",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "af2183df-e4c8-4f47-bbd8-6f25771ccdb6",
+                          "name": "Nug 120",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020135|af2183df-e4c8-4f47-bbd8-6f25771ccdb6"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020135"
+                    },
+                    {
+                      "vid": "12020140",
+                      "name": "121",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "81f23602-c6c5-4773-9cd8-d0a1807cdba6",
+                          "name": "Nug 121",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020140|81f23602-c6c5-4773-9cd8-d0a1807cdba6"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020140"
+                    },
+                    {
+                      "vid": "12020145",
+                      "name": "122",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "e10a3855-151a-4a0f-98a9-cfa85fff1553",
+                          "name": "Nug 122",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020145|e10a3855-151a-4a0f-98a9-cfa85fff1553"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020145"
+                    },
+                    {
+                      "vid": "12020150",
+                      "name": "123",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "41ce04fb-61d5-4003-ad4d-e180cda53d6e",
+                          "name": "Nug 123",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020150|41ce04fb-61d5-4003-ad4d-e180cda53d6e"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020150"
+                    },
+                    {
+                      "vid": "12020155",
+                      "name": "124",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "74964041-969f-430a-bbd3-776d998c778d",
+                          "name": "Nug 124",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020155|74964041-969f-430a-bbd3-776d998c778d"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020155"
+                    },
+                    {
+                      "vid": "12020160",
+                      "name": "125",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "d7194182-c008-4749-aa54-206dbd5b63ed",
+                          "name": "Nug 125",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020160|d7194182-c008-4749-aa54-206dbd5b63ed"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020160"
+                    },
+                    {
+                      "vid": "12020165",
+                      "name": "126",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "b9704e36-91e6-4502-b3e8-e490a5fbd7cc",
+                          "name": "Nug 126",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020165|b9704e36-91e6-4502-b3e8-e490a5fbd7cc"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020165"
+                    },
+                    {
+                      "vid": "12020170",
+                      "name": "127",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "3cba4f29-4f6b-45c6-b4e9-cf80b6250f23",
+                          "name": "Nug 127",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020170|3cba4f29-4f6b-45c6-b4e9-cf80b6250f23"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020170"
+                    },
+                    {
+                      "vid": "12020175",
+                      "name": "128",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "34cad04b-b5e5-446d-8099-970a08c4f77d",
+                          "name": "Nug 128",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020175|34cad04b-b5e5-446d-8099-970a08c4f77d"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020175"
+                    },
+                    {
+                      "vid": "12020180",
+                      "name": "129",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "88677448-ac77-4dbf-aef4-c897f591a9fa",
+                          "name": "Nug 129",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020180|88677448-ac77-4dbf-aef4-c897f591a9fa"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020180"
+                    },
+                    {
+                      "vid": "12020185",
+                      "name": "130",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "13ab1068-f5a8-4037-aac7-a927d67ebfa4",
+                          "name": "Nug 130",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020185|13ab1068-f5a8-4037-aac7-a927d67ebfa4"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020185"
+                    },
+                    {
+                      "vid": "12020190",
+                      "name": "131",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "d5f50f9e-857a-4640-9de8-ed7bddc89ef6",
+                          "name": "Nug 131",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020190|d5f50f9e-857a-4640-9de8-ed7bddc89ef6"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020190"
+                    },
+                    {
+                      "vid": "12020195",
+                      "name": "132",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "1089c2bf-4419-4388-a267-09c1fdcd3709",
+                          "name": "Nug 132",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020195|1089c2bf-4419-4388-a267-09c1fdcd3709"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020195"
+                    },
+                    {
+                      "vid": "12020200",
+                      "name": "133",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "ca242db4-223c-439d-a319-244bc2ef0fd0",
+                          "name": "Nug 133",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020200|ca242db4-223c-439d-a319-244bc2ef0fd0"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020200"
+                    },
+                    {
+                      "vid": "12020205",
+                      "name": "134",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "f5b84261-aa2e-4883-90f9-4dbd6b3fdf0f",
+                          "name": "Nug 134",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020205|f5b84261-aa2e-4883-90f9-4dbd6b3fdf0f"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020205"
+                    },
+                    {
+                      "vid": "12020211",
+                      "name": "135",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "4eaaf044-69d6-49a1-a2fb-5a736b1dddc0",
+                          "name": "Nug 135",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020211|4eaaf044-69d6-49a1-a2fb-5a736b1dddc0"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020211"
+                    },
+                    {
+                      "vid": "12020215",
+                      "name": "136",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "c0dc6c0c-2762-40bb-a7f5-e2251d845a96",
+                          "name": "Nug 136",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020215|c0dc6c0c-2762-40bb-a7f5-e2251d845a96"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020215"
+                    },
+                    {
+                      "vid": "12020220",
+                      "name": "137",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "ba29772b-32ee-458d-af01-bd1d06909256",
+                          "name": "Nug 137",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020220|ba29772b-32ee-458d-af01-bd1d06909256"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020220"
+                    },
+                    {
+                      "vid": "12020225",
+                      "name": "138",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "efeea9ad-0a25-4f1d-b375-2345c75b0bcc",
+                          "name": "Nug 138",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020225|efeea9ad-0a25-4f1d-b375-2345c75b0bcc"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020225"
+                    },
+                    {
+                      "vid": "12020230",
+                      "name": "139",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "f713f58b-f543-43bc-8484-0578e8af756e",
+                          "name": "Nug 139",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020230|f713f58b-f543-43bc-8484-0578e8af756e"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020230"
+                    },
+                    {
+                      "vid": "12020235",
+                      "name": "140",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "3afc8e67-d53d-4d85-893e-becfc4085764",
+                          "name": "Nug 140",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020235|3afc8e67-d53d-4d85-893e-becfc4085764"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020235"
+                    },
+                    {
+                      "vid": "12020240",
+                      "name": "141",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "71fb997a-6282-42db-989f-ca0d3c43231a",
+                          "name": "Nug 141",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020240|71fb997a-6282-42db-989f-ca0d3c43231a"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020240"
+                    },
+                    {
+                      "vid": "12020245",
+                      "name": "142",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "3596bbee-021c-430d-ae65-e23be9a9c609",
+                          "name": "Nug 142",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020245|3596bbee-021c-430d-ae65-e23be9a9c609"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020245"
+                    },
+                    {
+                      "vid": "12020250",
+                      "name": "143",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "351422d3-cd7a-4c2b-b2b9-abee610fe207",
+                          "name": "Nug 143",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020250|351422d3-cd7a-4c2b-b2b9-abee610fe207"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020250"
+                    },
+                    {
+                      "vid": "12020255",
+                      "name": "144",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "e8686344-f61c-49db-a3d7-64591d828865",
+                          "name": "Nug 144",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020255|e8686344-f61c-49db-a3d7-64591d828865"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020255"
+                    },
+                    {
+                      "vid": "12020260",
+                      "name": "145",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "53eaa7a4-b42c-4bd2-aed5-41e1e6b61926",
+                          "name": "Nug 145",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020260|53eaa7a4-b42c-4bd2-aed5-41e1e6b61926"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020260"
+                    },
+                    {
+                      "vid": "12020265",
+                      "name": "146",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "c0dce236-7a51-4307-88aa-cf354c00fe75",
+                          "name": "Nug 146",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020265|c0dce236-7a51-4307-88aa-cf354c00fe75"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020265"
+                    },
+                    {
+                      "vid": "12020270",
+                      "name": "147",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "9728b5bb-78f5-4e64-8779-973e6333ad7d",
+                          "name": "Nug 147",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020270|9728b5bb-78f5-4e64-8779-973e6333ad7d"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020270"
+                    },
+                    {
+                      "vid": "12020275",
+                      "name": "148",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "82011084-0aba-4a6c-9215-a7e117747e60",
+                          "name": "Nug 148",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020275|82011084-0aba-4a6c-9215-a7e117747e60"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020275"
+                    },
+                    {
+                      "vid": "12020280",
+                      "name": "149",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "3292cae6-da4a-4a2c-8e7e-bd85cfc18bfb",
+                          "name": "Nug 149",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020280|3292cae6-da4a-4a2c-8e7e-bd85cfc18bfb"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020280"
+                    },
+                    {
+                      "vid": "12020285",
+                      "name": "150",
+                      "type": "passage",
+                      "seam": false,
+                      "children": [
+                        {
+                          "vid": "4ac5b731-1585-4bc9-ba2e-25e335a28f57",
+                          "name": "Nug 150",
+                          "type": "nugget",
+                          "seam": false,
+                          "id": "|adit|12019996|12019999|12020028|12020285|4ac5b731-1585-4bc9-ba2e-25e335a28f57"
+                        }
+                      ],
+                      "id": "|adit|12019996|12019999|12020028|12020285"
+                    }
+                  ],
+                  "id": "|adit|12019996|12019999|12020028"
+                }
+              ],
+              "id": "|adit|12019996|12019999"
+            }
+          ],
+          "id": "|adit|12019996"
+        }
+      ],
+      "id": "|adit"
+    }
+  ],
+  "initialOpenState": {
+    "|adit": true,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c": true,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882": true,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|392049f8-d0d2-4e73-b281-489f3a2bef46": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|392049f8-d0d2-4e73-b281-489f3a2bef46|d7faacfb-0fd8-40b3-8b84-c74cdf820032": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|12019885": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|12019885|bcff68dd-23e2-48c2-8ab5-c56eae2ee7c7": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|12019885|bec302f5-f1cf-4d99-8b60-b2da8506ccac": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|12019885|12019892": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019882|86cc1537-3399-4a06-914d-328803aa542b": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|30f7842a-97a9-4f5b-b1ad-d54d1b937722": true,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|30f7842a-97a9-4f5b-b1ad-d54d1b937722|69e8d8f9-acb7-46d5-a828-a9f2ea1172ee": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|30f7842a-97a9-4f5b-b1ad-d54d1b937722|69e8d8f9-acb7-46d5-a828-a9f2ea1172ee|02d795d0-c2bb-4d86-a47f-9fc7cb441741": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|30f7842a-97a9-4f5b-b1ad-d54d1b937722|69e8d8f9-acb7-46d5-a828-a9f2ea1172ee|db0d2c7c-ece5-4c64-9575-f39e33145f86": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee": true,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|8bd9489e-b2fc-4c43-bb3b-e213b2ab471f": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|8bd9489e-b2fc-4c43-bb3b-e213b2ab471f|12019909": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|8bd9489e-b2fc-4c43-bb3b-e213b2ab471f|02d795d0-c2bb-4d86-a47f-9fc7cb441741": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|b45dcc4a-567c-4e52-8ee5-efba889af126": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|b45dcc4a-567c-4e52-8ee5-efba889af126|12019916": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|b45dcc4a-567c-4e52-8ee5-efba889af126|12019916|f4088608-4860-4427-9d08-21d612123688": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|b45dcc4a-567c-4e52-8ee5-efba889af126|db0d2c7c-ece5-4c64-9575-f39e33145f86": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|72422e64-7ac4-4a18-a284-a4f9be1cc8ee|b45dcc4a-567c-4e52-8ee5-efba889af126|10f392d8-58f6-442a-b0a2-5fcbcc788c27": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925": true,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|b49752c2-083b-4a19-9161-dfb434c24911": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|b49752c2-083b-4a19-9161-dfb434c24911|a8f1651e-535e-4795-9273-694e9c42de8e": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|b49752c2-083b-4a19-9161-dfb434c24911|ed742eb0-26e4-400d-af4d-4dfd715dfe85": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|b49752c2-083b-4a19-9161-dfb434c24911|ed742eb0-26e4-400d-af4d-4dfd715dfe85|49b70b98-48be-42f3-b314-ccfa469f7987": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|b49752c2-083b-4a19-9161-dfb434c24911|ed742eb0-26e4-400d-af4d-4dfd715dfe85|49b70b98-48be-42f3-b314-ccfa469f7987|00d26410-0e18-4912-b26b-dbc173ec0bb8": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|b49752c2-083b-4a19-9161-dfb434c24911|ed742eb0-26e4-400d-af4d-4dfd715dfe85|49b70b98-48be-42f3-b314-ccfa469f7987|00d26410-0e18-4912-b26b-dbc173ec0bb8|75bc450a-7d4c-4aa4-8241-2f269c378f90": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|12019936": false,
+    "|adit|08bcf93d-ed39-4d34-889b-5d3271074f7c|12019925|12019936|bcff68dd-23e2-48c2-8ab5-c56eae2ee7c7": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3": true,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53": true,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|12019945": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|12019945|12019948": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|12019945|12019948|a8f1651e-535e-4795-9273-694e9c42de8e": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|12019945|12019948|382bcaae-46e7-465f-9a82-d24ff426939f": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|12019945|12019948|ab7f01b4-b6ba-4598-9485-6dc19a28bd9c": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|12019945|ed5171f1-6b90-4a26-bdd3-6427dd435ead": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|206be892-0bd4-44c4-9e9e-19c6798b68ad": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|3f73b14a-b566-445a-bcd1-67699bb1ac53|8d41d7ef-097e-46eb-aa90-ead7f78771d8": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963": true,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|f43237c5-5a32-477f-9963-c6fe2a7e477e": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|f43237c5-5a32-477f-9963-c6fe2a7e477e|e6ded25a-d6a0-4604-a04a-8cbd85874170": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|9b136996-9f88-4a9e-8d58-f3affaa00fac": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|9b136996-9f88-4a9e-8d58-f3affaa00fac|54d805de-f6ee-48fe-8e15-b1223fd02a12": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|392049f8-d0d2-4e73-b281-489f3a2bef46": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|392049f8-d0d2-4e73-b281-489f3a2bef46|d7faacfb-0fd8-40b3-8b84-c74cdf820032": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|feae3259-820b-4506-86c9-0721c1c14dc3": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|feae3259-820b-4506-86c9-0721c1c14dc3|ed742eb0-26e4-400d-af4d-4dfd715dfe85": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|feae3259-820b-4506-86c9-0721c1c14dc3|ed742eb0-26e4-400d-af4d-4dfd715dfe85|49b70b98-48be-42f3-b314-ccfa469f7987": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|feae3259-820b-4506-86c9-0721c1c14dc3|ed742eb0-26e4-400d-af4d-4dfd715dfe85|49b70b98-48be-42f3-b314-ccfa469f7987|00d26410-0e18-4912-b26b-dbc173ec0bb8": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|feae3259-820b-4506-86c9-0721c1c14dc3|ed742eb0-26e4-400d-af4d-4dfd715dfe85|49b70b98-48be-42f3-b314-ccfa469f7987|00d26410-0e18-4912-b26b-dbc173ec0bb8|75bc450a-7d4c-4aa4-8241-2f269c378f90": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|12019980": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|12019980|12019983": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|12019963|12019980|12019983|75bc450a-7d4c-4aa4-8241-2f269c378f90": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|aa91b9a7-d73c-4f77-a4a1-eb1080998105": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|aa91b9a7-d73c-4f77-a4a1-eb1080998105|e6192fea-8357-442b-ba62-f29a3b534071": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|aa91b9a7-d73c-4f77-a4a1-eb1080998105|e6192fea-8357-442b-ba62-f29a3b534071|76983315-5cf3-4541-96c4-21b79fa835ab": false,
+    "|adit|256875fc-3c2d-446b-b95a-53cc79172bf3|aa91b9a7-d73c-4f77-a4a1-eb1080998105|e6192fea-8357-442b-ba62-f29a3b534071|76983315-5cf3-4541-96c4-21b79fa835ab|f54bfbb9-fb65-46de-95dc-b4b24f8defe4": false,
+    "|adit|12019996": true,
+    "|adit|12019996|12019999": true,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a": false,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|5ab7e204-c630-4929-8e80-e44dc81e8c4a": false,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|16d61f24-52a5-4126-9b85-e37a4a6054e2": false,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|46fd6cf8-0648-4e7a-91fb-a3987aeda55f": false,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|7fb8a9e1-d22b-4c0f-8cd1-9e8bed90c43c": false,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|caad9427-d1ec-4637-8a47-4ca1f8be8f5a": false,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|9a84e02c-e5c8-42f3-80b0-2c4c5992bcce": false,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|042d2a2b-f33d-451e-908e-d716872c730e": false,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|8d55b848-cb8f-458a-b682-34f224d48257": false,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|249a7f38-26c0-4ac9-ab09-b419af839445": false,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|46558a49-c986-41c5-b01c-4fc13d2aec5d": false,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|d0f6e9d8-d9fc-4b63-b73d-0c77a09ec237": false,
+    "|adit|12019996|12019999|a2e08181-5ac7-4e15-94d3-5698d95b723a|249b3b9c-d685-4d8d-a8e3-3dc4319c5174": false,
+    "|adit|12019996|12019999|12020028": false,
+    "|adit|12019996|12019999|12020028|12020031": false,
+    "|adit|12019996|12019999|12020028|12020031|796b092d-693c-49f3-a7cd-ca3b767b1b7b": false,
+    "|adit|12019996|12019999|12020028|12020031|d3c44e88-1a8f-4346-bf68-83a55000ba56": false,
+    "|adit|12019996|12019999|12020028|12020038": false,
+    "|adit|12019996|12019999|12020028|12020038|c9895ea8-2727-4e3d-a2b4-c3ce9b1116ed": false,
+    "|adit|12019996|12019999|12020028|12020038|38d2e5da-917b-4606-840d-388af26ac098": false,
+    "|adit|12019996|12019999|12020028|12020045": false,
+    "|adit|12019996|12019999|12020028|12020045|c3969d0b-e460-4179-bc80-1e36f9b22d3f": false,
+    "|adit|12019996|12019999|12020028|12020050": false,
+    "|adit|12019996|12019999|12020028|12020050|545674be-6db1-4d29-b137-6a4b363613c3": false,
+    "|adit|12019996|12019999|12020028|12020055": false,
+    "|adit|12019996|12019999|12020028|12020055|e6b42709-524d-4e4a-a90e-807a61499a46": false,
+    "|adit|12019996|12019999|12020028|12020060": false,
+    "|adit|12019996|12019999|12020028|12020060|0de68796-5ca1-4256-b93f-7061fcec02df": false,
+    "|adit|12019996|12019999|12020028|12020065": false,
+    "|adit|12019996|12019999|12020028|12020065|0da9bf95-748b-4bf9-a6d8-aee7b179b0e4": false,
+    "|adit|12019996|12019999|12020028|12020070": false,
+    "|adit|12019996|12019999|12020028|12020070|df1c9b86-67a6-4937-ad9d-813a7c16a43e": false,
+    "|adit|12019996|12019999|12020028|12020075": false,
+    "|adit|12019996|12019999|12020028|12020075|6bfe2a88-7cda-4e88-a101-2f8f107a8c70": false,
+    "|adit|12019996|12019999|12020028|12020080": false,
+    "|adit|12019996|12019999|12020028|12020080|3eda9339-4668-47c3-9c62-a1a270855216": false,
+    "|adit|12019996|12019999|12020028|12020085": false,
+    "|adit|12019996|12019999|12020028|12020085|dcfe7782-bd9d-4239-8439-1cc23685cf9d": false,
+    "|adit|12019996|12019999|12020028|12020090": false,
+    "|adit|12019996|12019999|12020028|12020090|2debd860-fc8b-4e97-b3f3-1e91154464c8": false,
+    "|adit|12019996|12019999|12020028|12020095": false,
+    "|adit|12019996|12019999|12020028|12020095|553e13ce-a018-4d9b-8ac0-148ebb62e330": false,
+    "|adit|12019996|12019999|12020028|12020100": false,
+    "|adit|12019996|12019999|12020028|12020100|3873b4f6-b05b-4c9e-a3f7-3572348d272c": false,
+    "|adit|12019996|12019999|12020028|12020106": false,
+    "|adit|12019996|12019999|12020028|12020106|7304cf4c-d91f-44d7-9599-76988da9e875": false,
+    "|adit|12019996|12019999|12020028|12020110": false,
+    "|adit|12019996|12019999|12020028|12020110|17da1921-9567-490f-ab1f-21fa6ad346ef": false,
+    "|adit|12019996|12019999|12020028|12020115": false,
+    "|adit|12019996|12019999|12020028|12020115|aee495d9-e848-4c8d-a338-1c68561d5fbc": false,
+    "|adit|12019996|12019999|12020028|12020120": false,
+    "|adit|12019996|12019999|12020028|12020120|ef4042cd-8d96-4d00-9a2e-5e151d95fe54": false,
+    "|adit|12019996|12019999|12020028|12020125": false,
+    "|adit|12019996|12019999|12020028|12020125|95343290-7c1e-44ec-9ae4-113c5eb73506": false,
+    "|adit|12019996|12019999|12020028|12020130": false,
+    "|adit|12019996|12019999|12020028|12020130|240326b1-36bc-48ee-9f50-cc9cbda6020c": false,
+    "|adit|12019996|12019999|12020028|12020135": false,
+    "|adit|12019996|12019999|12020028|12020135|af2183df-e4c8-4f47-bbd8-6f25771ccdb6": false,
+    "|adit|12019996|12019999|12020028|12020140": false,
+    "|adit|12019996|12019999|12020028|12020140|81f23602-c6c5-4773-9cd8-d0a1807cdba6": false,
+    "|adit|12019996|12019999|12020028|12020145": false,
+    "|adit|12019996|12019999|12020028|12020145|e10a3855-151a-4a0f-98a9-cfa85fff1553": false,
+    "|adit|12019996|12019999|12020028|12020150": false,
+    "|adit|12019996|12019999|12020028|12020150|41ce04fb-61d5-4003-ad4d-e180cda53d6e": false,
+    "|adit|12019996|12019999|12020028|12020155": false,
+    "|adit|12019996|12019999|12020028|12020155|74964041-969f-430a-bbd3-776d998c778d": false,
+    "|adit|12019996|12019999|12020028|12020160": false,
+    "|adit|12019996|12019999|12020028|12020160|d7194182-c008-4749-aa54-206dbd5b63ed": false,
+    "|adit|12019996|12019999|12020028|12020165": false,
+    "|adit|12019996|12019999|12020028|12020165|b9704e36-91e6-4502-b3e8-e490a5fbd7cc": false,
+    "|adit|12019996|12019999|12020028|12020170": false,
+    "|adit|12019996|12019999|12020028|12020170|3cba4f29-4f6b-45c6-b4e9-cf80b6250f23": false,
+    "|adit|12019996|12019999|12020028|12020175": false,
+    "|adit|12019996|12019999|12020028|12020175|34cad04b-b5e5-446d-8099-970a08c4f77d": false,
+    "|adit|12019996|12019999|12020028|12020180": false,
+    "|adit|12019996|12019999|12020028|12020180|88677448-ac77-4dbf-aef4-c897f591a9fa": false,
+    "|adit|12019996|12019999|12020028|12020185": false,
+    "|adit|12019996|12019999|12020028|12020185|13ab1068-f5a8-4037-aac7-a927d67ebfa4": false,
+    "|adit|12019996|12019999|12020028|12020190": false,
+    "|adit|12019996|12019999|12020028|12020190|d5f50f9e-857a-4640-9de8-ed7bddc89ef6": false,
+    "|adit|12019996|12019999|12020028|12020195": false,
+    "|adit|12019996|12019999|12020028|12020195|1089c2bf-4419-4388-a267-09c1fdcd3709": false,
+    "|adit|12019996|12019999|12020028|12020200": false,
+    "|adit|12019996|12019999|12020028|12020200|ca242db4-223c-439d-a319-244bc2ef0fd0": false,
+    "|adit|12019996|12019999|12020028|12020205": false,
+    "|adit|12019996|12019999|12020028|12020205|f5b84261-aa2e-4883-90f9-4dbd6b3fdf0f": false,
+    "|adit|12019996|12019999|12020028|12020211": false,
+    "|adit|12019996|12019999|12020028|12020211|4eaaf044-69d6-49a1-a2fb-5a736b1dddc0": false,
+    "|adit|12019996|12019999|12020028|12020215": false,
+    "|adit|12019996|12019999|12020028|12020215|c0dc6c0c-2762-40bb-a7f5-e2251d845a96": false,
+    "|adit|12019996|12019999|12020028|12020220": false,
+    "|adit|12019996|12019999|12020028|12020220|ba29772b-32ee-458d-af01-bd1d06909256": false,
+    "|adit|12019996|12019999|12020028|12020225": false,
+    "|adit|12019996|12019999|12020028|12020225|efeea9ad-0a25-4f1d-b375-2345c75b0bcc": false,
+    "|adit|12019996|12019999|12020028|12020230": false,
+    "|adit|12019996|12019999|12020028|12020230|f713f58b-f543-43bc-8484-0578e8af756e": false,
+    "|adit|12019996|12019999|12020028|12020235": false,
+    "|adit|12019996|12019999|12020028|12020235|3afc8e67-d53d-4d85-893e-becfc4085764": false,
+    "|adit|12019996|12019999|12020028|12020240": false,
+    "|adit|12019996|12019999|12020028|12020240|71fb997a-6282-42db-989f-ca0d3c43231a": false,
+    "|adit|12019996|12019999|12020028|12020245": false,
+    "|adit|12019996|12019999|12020028|12020245|3596bbee-021c-430d-ae65-e23be9a9c609": false,
+    "|adit|12019996|12019999|12020028|12020250": false,
+    "|adit|12019996|12019999|12020028|12020250|351422d3-cd7a-4c2b-b2b9-abee610fe207": false,
+    "|adit|12019996|12019999|12020028|12020255": false,
+    "|adit|12019996|12019999|12020028|12020255|e8686344-f61c-49db-a3d7-64591d828865": false,
+    "|adit|12019996|12019999|12020028|12020260": false,
+    "|adit|12019996|12019999|12020028|12020260|53eaa7a4-b42c-4bd2-aed5-41e1e6b61926": false,
+    "|adit|12019996|12019999|12020028|12020265": false,
+    "|adit|12019996|12019999|12020028|12020265|c0dce236-7a51-4307-88aa-cf354c00fe75": false,
+    "|adit|12019996|12019999|12020028|12020270": false,
+    "|adit|12019996|12019999|12020028|12020270|9728b5bb-78f5-4e64-8779-973e6333ad7d": false,
+    "|adit|12019996|12019999|12020028|12020275": false,
+    "|adit|12019996|12019999|12020028|12020275|82011084-0aba-4a6c-9215-a7e117747e60": false,
+    "|adit|12019996|12019999|12020028|12020280": false,
+    "|adit|12019996|12019999|12020028|12020280|3292cae6-da4a-4a2c-8e7e-bd85cfc18bfb": false,
+    "|adit|12019996|12019999|12020028|12020285": false,
+    "|adit|12019996|12019999|12020028|12020285|4ac5b731-1585-4bc9-ba2e-25e335a28f57": false
+  }
+}

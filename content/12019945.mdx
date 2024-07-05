@@ -1,0 +1,116 @@
+---
+slug: /my-second-lode/foo/bar
+type: passage
+_key: '12019945'
+_id: passage/12019945
+_rev: _iFflG0i---
+label: bar
+passage: bar
+fspath: examples/my-mine/my-second-lode/foo/bar
+pageRefs: {}
+breadcrumbs:
+  - - label: My Second Lode
+      shortlabel: null
+      _key: 256875fc-3c2d-446b-b95a-53cc79172bf3
+    - label: Foo
+      shortlabel: null
+      _key: 3f73b14a-b566-445a-bcd1-67699bb1ac53
+paths:
+  - /my-second-lode/foo/bar
+---
+
+<NuggetArea>
+<Passage slug="/my-second-lode/foo/bar" type="passage" _key="12019945" _id="passage/12019945" _rev="_iFflG0i---" label="bar" passage="bar" fspath="examples/my-mine/my-second-lode/foo/bar" paths="/my-second-lode/foo/bar">
+<NuggetBody>
+### bar
+
+</NuggetBody>
+<Breadcrumbs>
+<Crumbs>
+<Crumb _key="256875fc-3c2d-446b-b95a-53cc79172bf3" label="My Second Lode" /><Crumb _key="3f73b14a-b566-445a-bcd1-67699bb1ac53" label="Foo" />
+</Crumbs>
+</Breadcrumbs>
+</Passage>
+
+<NuggetsInbound>
+</NuggetsInbound>
+<NuggetsOutbound>
+<Nugget direction="outbound" type="nugget" _key="ed5171f1-6b90-4a26-bdd3-6427dd435ead" _id="nugget/ed5171f1-6b90-4a26-bdd3-6427dd435ead" _rev="_iFflG0q---" fspath="examples/my-mine/my-second-lode/foo/bar/code_in_directive.md" label="Code In Directives" paths="/my-second-lode/foo/bar/code-in-directives" slug="/my-second-lode/foo/bar/code-in-directives">
+<NuggetBody>
+## Code In Directives
+
+<Admonition type="note">
+
+
+```java
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
+
+
+</Admonition>
+
+***
+
+<Admonition type="warning" title="whoa">
+
+
+
+
+```javascript
+'use strict'
+const { v4: uuidv4 } = require('uuid')
+
+exports.command = 'uuid'
+
+exports.describe = 'Generate a UUID'
+
+exports.builder = (yargs) => {
+  return yargs
+}
+
+exports.handler = function (argv) {
+  console.log(uuidv4())
+}
+```
+
+
+</Admonition>
+
+</NuggetBody>
+</Nugget>
+
+</NuggetsOutbound>
+</NuggetArea>
+<PassagesInbound>
+<Passage direction="inbound" type="passage" _key="3f73b14a-b566-445a-bcd1-67699bb1ac53" _id="passage/3f73b14a-b566-445a-bcd1-67699bb1ac53" _rev="_iFflG0e--B" passage="foo" fspath="examples/my-mine/my-second-lode/foo.md" label="Foo" paths="/my-second-lode/foo" slug="/my-second-lode/foo">
+<NuggetBody>
+## Foo
+
+A wide piece of text:
+
+```text
+This is some text inside a code block that gets rendered in the website without wrapping, which means some max-width options are needed.
+```
+
+</NuggetBody>
+<Breadcrumbs>
+<Crumbs>
+<Crumb _key="256875fc-3c2d-446b-b95a-53cc79172bf3" label="My Second Lode" />
+</Crumbs>
+</Breadcrumbs>
+</Passage>
+
+</PassagesInbound>
+<PassagesOutbound>
+<Passage direction="outbound" type="passage" _key="12019948" _id="passage/12019948" _rev="_iFflG0i--_" label="baz" passage="baz" fspath="examples/my-mine/my-second-lode/foo/bar/baz" paths="/my-second-lode/foo/bar/baz" slug="/my-second-lode/foo/bar/baz">
+<NuggetBody>
+### baz
+
+</NuggetBody>
+</Passage>
+
+</PassagesOutbound>

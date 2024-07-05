@@ -1,0 +1,54 @@
+@import '../styles/colour.css';
+
+.container {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  color: var(--color-fg);
+  background-color: var(--color-bg);
+}
+
+.topbar {
+  height: 5rem;
+  color: var(--color-top-fg);
+  background-color: var(--color-top-bg);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.minename {
+  display: flex;
+  flex-grow: 1;
+  padding-left: 2rem;
+  flex-shrink: 0;
+}
+
+.searchbar {
+  display: flex;
+  flex-grow: 1;
+  flex-basis: 80%;
+  justify-content: center;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  height: calc(100% - 5rem);
+}
+
+.sidebar {
+  flex-grow: 1;
+  height: 100%;
+  color: var(--color-side-fg);
+  background-color: var(--color-side-bg);
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.content {
+  flex-grow: 1;
+  flex-basis: 80%;
+  height: 100%;
+  overflow: auto;
+}
