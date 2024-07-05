@@ -35,6 +35,7 @@ const config = {
   },
   pathPrefix: '/',
   plugins: [
+    'gatsby-plugin-webpack-bundle-analyser-v2',
     'gatsby-plugin-layout',
     {
       resolve: 'gatsby-plugin-mdx',
