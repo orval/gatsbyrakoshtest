@@ -40,7 +40,7 @@ const Layout = ({ children }) => {
       >
         <header className={styles.topbar}>
           {/* eslint-disable-next-line */}
-          <h1 className={styles.minename}>My Rakosh Mine</h1>
+          <h1 className={styles.minename}>rakosh</h1>
           <div className={styles.searchbar}>
             <SearchBar />
           </div>

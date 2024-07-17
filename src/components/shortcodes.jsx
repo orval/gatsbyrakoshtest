@@ -240,7 +240,7 @@ const Code = (props) => {
     <SyntaxHighlighter
       language={language}
       style={github}
-      customStyle={ { backgroundColor: '#FDF4F9' } }
+      customStyle={ { backgroundColor: '#FFF9F8' } }
     >
       {props.children}
     </SyntaxHighlighter>

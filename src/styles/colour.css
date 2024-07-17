@@ -8,17 +8,17 @@
 /* As hex codes */
 
 :root {
-  --color-fg: #2F1222;
-  --color-bg: #FDF4F9;
-  --color-nugget: #FF9FC8;
-  --color-seam: #FFB4AE;
-  --color-passage: #E4AFFB;
-  --color-main-bg: #FFE2F1;
+  --color-fg: #1B231C;
+  --color-bg: #FFF9F8;
+  --color-nugget: #E9A4C9;
+  --color-seam: #D87AAC;
+  --color-passage: #BFCCC0;
+  --color-main-bg: #F0E5EC;
 
-  --color-top-bg: #F1489E;
-  --color-top-fg: #E9E6E7;
-  --color-side-bg: #FFDBED;
-  --color-side-fg: #4A1D34;
+  --color-top-bg: #E9A4C9;
+  --color-top-fg: #232D20;
+  --color-side-bg: #8AA77E;
+  --color-side-fg: #232D20;
 }
 
 .color-primary-0 { color: #FB86C2 }	/* Main Primary color */
