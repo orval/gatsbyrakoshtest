@@ -2,7 +2,7 @@ const React = require('react')
 
 const HeadComponents = [
   // eslint-disable-next-line
-  <title key='title'>my-mine</title>
+  <title key='title'>rakosh-docs</title>
 ]
 
 const HtmlAttributes = {

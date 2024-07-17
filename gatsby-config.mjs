@@ -31,7 +31,7 @@ function prepBody (mdx) {
 const config = {
   siteMetadata:
   {
-    title: 'My Rakosh Mine'
+    title: 'rakosh'
   },
   pathPrefix: '/',
   plugins: [
@@ -97,8 +97,8 @@ const config = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'My Rakosh Mine',
-        short_name: 'My Rakosh Mine',
+        name: 'rakosh',
+        short_name: 'rakosh',
         start_url: '/',
         background_color: '#f7f0eb',
         theme_color: '#a2466c',
